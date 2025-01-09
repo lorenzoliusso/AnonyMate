@@ -1,0 +1,5 @@
+pdfminer.six==20240706
+PyMuPDF==1.22.5
+defusedxml
+vllm==0.6.3.post1
+pymupdf4llm==0.0.17
