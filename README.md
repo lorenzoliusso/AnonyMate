@@ -62,8 +62,11 @@ huggingface-cli login
 ```
 During the process, authenticate with your Hugging Face account and request access to the LLaMA 3 models via their web portal if needed.
 
+### Step 4: Edit prompt
 
-### Step 4: Run the Application
+Edit `llm/prompt.py` with specific instructions to better suit your task.
+
+### Step 5: Run the Application
 
 To test the detection and highlighting of sensitive data:
 ```bash
